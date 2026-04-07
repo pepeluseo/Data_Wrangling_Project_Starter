@@ -96,7 +96,7 @@ Factores adicionales como la industrialización, las fuentes de energía, las po
 ## 📈 Visualizaciones destacadas
 
 ### Relación entre población y contaminación del aire (PM2.5)
-images/pm25_vs_population_2021.png
+![PM2.5](images/Grafico de dispersion_niveles de PM2.png)
 
 Este gráfico de dispersión muestra que no existe una relación lineal fuerte entre
 el tamaño de la población de un país y sus niveles de PM2.5 en 2021.
@@ -104,7 +104,7 @@ el tamaño de la población de un país y sus niveles de PM2.5 en 2021.
 ---
 
 ### Países con mayores niveles de PM2.5 (2021)
-images/top15_pm25_2021.png
+![PM2.5](images/15 paises con mayor contaminacion1.png)
 
 El gráfico de barras destaca que los países con mayores niveles de PM2.5 no son
 necesariamente los más poblados.
